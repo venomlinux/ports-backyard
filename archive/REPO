@@ -16,7 +16,6 @@ d:qtwebkit
 d:python2-crypto
 d:acpid-lfsbootscripts
 d:lfs-bootscripts
-d:gtk-doc
 d:bluez-lfsbootscripts
 d:lxdm-lfsbootscripts
 d:linux-lts
@@ -55,7 +54,6 @@ f:95916321533fb636f6e8c5c7f2334a1b:qtwebkit/spkgbuild
 f:da10b2d0f6902a3a7e947c7d262ab9ab:python2-crypto/spkgbuild
 f:6112c4f333ec5a522ca8634e09d3d7e2:acpid-lfsbootscripts/spkgbuild
 f:4e6ac057c2031cf9e741b5e4d5415d2b:lfs-bootscripts/spkgbuild
-f:f1692979afa44bae7eec06ff62007c4a:gtk-doc/spkgbuild
 f:bd5e013fea7adaeb65b9de31e81d1633:bluez-lfsbootscripts/spkgbuild
 f:f74ce9fb8ba178c68dbf26984b8ddb98:lxdm-lfsbootscripts/install
 f:d10d3acb880c18c3348d9aec5ad7355e:lxdm-lfsbootscripts/spkgbuild

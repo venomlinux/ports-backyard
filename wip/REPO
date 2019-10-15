@@ -9,7 +9,6 @@ d:jsoncpp
 d:cross-x86_64-linux-musl-gcc-static
 d:zeromq
 d:libsodium
-d:sddm
 d:cross-x86_64-linux-musl
 d:libopenshot
 d:libpgm
@@ -35,8 +34,6 @@ f:eebfd6120beaab0d5dd75a5714380399:jsoncpp/spkgbuild
 f:0d3b0f134aad693588b84582289badf3:cross-x86_64-linux-musl-gcc-static/spkgbuild
 f:f787d636068233d92d5b45890f3d34f8:zeromq/spkgbuild
 f:35c7ad62013d616c383d847aaa8c3cb8:libsodium/spkgbuild
-f:00c6d5ff2b4c89a0f5bfd8392bac546c:sddm/install
-f:0d3670ad142a60612d1688d71108ee67:sddm/spkgbuild
 f:3a766427e43056af477dff2036194ea7:cross-x86_64-linux-musl/spkgbuild
 f:09022c2f71f9404858bd9ae6465c7582:libopenshot/spkgbuild
 f:05df90dee5566fbe0e1097f4f07c9900:libpgm/spkgbuild
