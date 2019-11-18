@@ -1,5 +1,4 @@
 d:gvfs
-d:gcc
 d:lxappearance-obconf
 d:lxinput
 d:elfutils
@@ -19,6 +18,7 @@ d:glib
 d:rust
 d:sysklogd
 d:librsvg
+d:binutils
 d:patch
 d:lz4
 d:gettext
@@ -48,11 +48,7 @@ d:webkitgtk
 d:gtk2
 d:lxpanel
 d:groff
-d:musl
 f:32f079ce4d14acb80598eb681a0f9b80:gvfs/spkgbuild
-f:da96f545b863e57c6ab2598c1ea9a740:gcc/c99
-f:3d333df77302ed89e06a4a8539943b7d:gcc/c89
-f:0408995b1b1d86f5ca0bc74e79c7465c:gcc/spkgbuild
 f:1740419ded43a39d9f49354cc067a200:lxappearance-obconf/spkgbuild
 f:aaa1fae57c3fd224b9acb899c27aec0c:lxinput/spkgbuild
 f:42c3aead4b447a572f0090ce4d084040:elfutils/spkgbuild
@@ -109,6 +105,7 @@ f:c71826d1a4f3f7e8ffa57adbfc24f1ce:sysklogd/sysklogd-1.5-build.patch
 f:fdbfb679fd9fd5ba90a9c1507ded5dfc:sysklogd/spkgbuild
 f:fee8beb8c17f8ff8bbf6523fbb1c627f:sysklogd/fix-includes.patch
 f:c2d28ef8d232b6db615fab3a7e2a74c3:librsvg/spkgbuild
+f:b351c5c58f32b811986391b3657a7255:binutils/spkgbuild
 f:f940424ed76f6c2aef6d3df5f1d43e73:patch/spkgbuild
 f:61eefb8f89093435d1b9b03b1bd04799:lz4/spkgbuild
 f:71712795f6732e20cc983ac3f942266f:gettext/spkgbuild
@@ -183,9 +180,3 @@ f:80903bf2704e1b09d437f077f2f955c9:gtk2/spkgbuild
 f:a8c196ca502f8dc1240b796295dcbb35:lxpanel/10-devproc-lxpanel.patch
 f:a7929bba7b0ba8b3f8c499fb6fc063ae:lxpanel/spkgbuild
 f:d9234ed3124ec618480a6ae92a927da6:groff/spkgbuild
-f:7a5dbcc716b86f6419ee819983f196db:musl/getent.c
-f:45f92f8d59cf84d765de698a9578dbf4:musl/iconv.c
-f:09dcb73d22df3b5229ac3b1ce0490dc8:musl/getent.1
-f:57ef2c63b9ec6a2041694ace97d4ffa2:musl/getconf.c
-f:edf6aa09a822a0ca8a58f6e96b355feb:musl/spkgbuild
-f:68eba68307ef4b5c5e8713c2679b12a3:musl/getconf.1
